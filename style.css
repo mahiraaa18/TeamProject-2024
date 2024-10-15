@@ -1,0 +1,29 @@
+a{
+    color: black;
+    border: dotted 1px black ;
+    border-radius: 25px;
+}
+a.main{
+    padding: 5px 19px ;
+}
+a.Romyanti{
+    padding: 5px 17px;
+}
+a.Ashila{
+    padding: 5px 20px;
+}
+a.Gracia{
+    padding: 5px 17px;
+}
+a.Dhila{
+    padding: 5px 20px;
+}
+a.contact-us{
+    padding: 5px 4px;
+}
+.left{
+    background-image: linear-gradient(rgba(117, 185, 227, 0.984)20%, white 50%,rgba(117, 185, 227, 0.984)) ;
+}
+.down{
+    background-image: linear-gradient(to right, rgba(117, 185, 227, 0.984)20%, white 50%,rgba(117, 185, 227, 0.984)) ;
+}
